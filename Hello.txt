@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Welcome to DevOps GIT Class.   V2
 Hi this is version number 2
 Update the file again
+=======
+Welcome to DevOps GIT Class.  
+>>>>>>> c696fbf0578ded60452e16dece1e8474e52296c8
