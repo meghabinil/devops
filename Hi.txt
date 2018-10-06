@@ -2,4 +2,8 @@ This is to tell hi.
 
 I am modifying this file in local.
 
+<<<<<<< HEAD
 This is modified for a second time.
+=======
+Hi again.
+>>>>>>> 9006a377ccedcc8b22406aceecefabf648dbb7f8
